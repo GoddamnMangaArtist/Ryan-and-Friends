@@ -4,5 +4,28 @@
   "artist": "Goddamn Manga Artist",
   "author": "Goddamn Manga Artist",
   "cover": "https://github.com/GoddamnMangaArtist/Ryan-and-Friends/blob/main/Ryan%20And%20Friends%20Vol%201%20Cover.png?raw=true",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1722093723",
+      "groups": {
+        "": [
+          "https://github.com/GoddamnMangaArtist/Ryan-and-Friends/blob/main/Ryan%20And%20Friends%20Vol%201%20Cover.png?raw=true",
+          "https://github.com/GoddamnMangaArtist/Ryan-and-Friends/blob/main/V2%20Ryan%20And%20Friends%20Vol%201%20Cover.png?raw=true",
+          "https://github.com/GoddamnMangaArtist/Ryan-and-Friends/blob/main/Ryan%20And%20Friends%20Ch%201.png?raw=true",
+          "https://github.com/GoddamnMangaArtist/Ryan-and-Friends/blob/main/Ryan%20And%20Friends%20Ch%201_001.png?raw=true",
+          "https://github.com/GoddamnMangaArtist/Ryan-and-Friends/blob/main/Ryan%20And%20Friends%20Ch%201_002.png?raw=true",
+          "https://github.com/GoddamnMangaArtist/Ryan-and-Friends/blob/main/Ryan%20And%20Friends%20Ch%201_003.png?raw=true",
+          "https://github.com/GoddamnMangaArtist/Ryan-and-Friends/blob/main/Ryan%20And%20Friends%20Ch%201_004.png?raw=true",
+          "https://github.com/GoddamnMangaArtist/Ryan-and-Friends/blob/main/Ryan%20And%20Friends%20Ch%201_005.png?raw=true",
+          "https://github.com/GoddamnMangaArtist/Ryan-and-Friends/blob/main/Ryan%20And%20Friends%20Ch%201_006.png?raw=true",
+          "https://github.com/GoddamnMangaArtist/Ryan-and-Friends/blob/main/Ryan%20And%20Friends%20Ch%201_007.png?raw=true",
+          "https://github.com/GoddamnMangaArtist/Ryan-and-Friends/blob/main/Ryan%20And%20Friends%20Ch%201_008.png?raw=true",
+          "https://github.com/GoddamnMangaArtist/Ryan-and-Friends/blob/main/Ryan%20And%20Friends%20Ch%201_009.png?raw=true",
+          "https://github.com/GoddamnMangaArtist/Ryan-and-Friends/blob/main/Ryan%20And%20Friends%20Ch%201_010.png?raw=true"
+        ]
+      }
+    }
+  }
 }
